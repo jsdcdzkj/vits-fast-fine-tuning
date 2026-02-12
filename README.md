@@ -97,7 +97,7 @@ Below I'll show only how to change the character.
 
 ## Looking for help?
 If you have any questions, please feel free to open an [issue](https://github.com/Plachtaa/VITS-fast-fine-tuning/issues/new) or join our [Discord](https://discord.gg/TcrjDFvm5A) server.
-- .venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib
+- .venv/lib/python3.9/site-packages/torch/lib/libtorch_cpu.dylib（未变化）
 
 ## ⚠️ 已忽略内容
 - 忽略目录：.git .svn .idea node_modules __pycache__ target
